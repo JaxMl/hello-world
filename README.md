@@ -4,3 +4,5 @@ Hi! This is me learning how to use Github. I am a computer science student (via 
 I am an IT techie (independent contractor), and have studied C, C++, Java and Delphi through my University and taught myself Android this year. I love developing software! From database systems to games to multiple choice applications, I have done it all. Unfortunately 90% of it was for myself and so it won't count much in my CV/resume. Guess I will have to start from the bottom like everybody else.
 
 Phew!
+
+Did I mention that I love programming? Just like Kel loves orange soda, I do-I do-I do-I doooo!
